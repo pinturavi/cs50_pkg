@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="CS50",
+    name="example_pkg_ravi",
     version="0.0.1",
     author="pintu ravi",
     author_email="pintu541796@gmail.com",
